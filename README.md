@@ -1,3 +1,17 @@
+## Run the Project
+
+## Install dependiences
+pip install -r requirements.txt
+
+##  Generate the SQLite DB (only once)
+python sqlite.py
+
+## Run the Streamlit App
+streamlit run app.py
+
+
+
+
 ## Gen AI project - Chat with SQL DB with Langchain SQLTookit and Agent
 
 ### Objective:
