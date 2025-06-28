@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-Check out the live app here: [Deployed Link](https://myapp.streamlit.app)
+Check out the live app here: [Deployed Link](https://genai-langchain-sql.streamlit.app)
 
 [screen-capture.webm](https://github.com/user-attachments/assets/a9a9588f-dce0-4837-9c78-ac46e8e7356e)
 
