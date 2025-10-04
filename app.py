@@ -5,7 +5,7 @@ import sqlite3
 import os
 
 # ✅ Set your Groq API key directly here
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 
 # ✅ Langchain (community-safe) imports
 from langchain_community.agent_toolkits.sql.base import create_sql_agent
